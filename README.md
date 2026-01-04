@@ -1,4 +1,8 @@
 # Mehmet-Cagri-Dogan-Data-Structures-HW
+-    **Course**: Data Structures
+-    **Student Name**: Mehmet Çağrı Doğan
+-    **Student ID**: 2410213009
+
 Its my homework for the semester that's in here.
 The Homeworks follow as:
 1. Sparse matrix conversion.
